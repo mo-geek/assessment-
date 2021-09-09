@@ -7,7 +7,6 @@ import 'package:assessment1/ui/views/voucherScreenView/voucherScreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
-import 'asset/moreIcons.dart';
 import 'core/viewmodel/navigationViewModel.dart';
 
 void main() {
